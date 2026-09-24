@@ -15,7 +15,7 @@ import {
   createSendToken,
   defaultAvatarUrl,
   filterObj,
-} from "../utils/token.js";
+} from "../Utils/token.js";
 
 // 1. SIGNUP - make new account
 
